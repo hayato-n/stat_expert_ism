@@ -10,8 +10,11 @@
 
 ## Discussion Paper
 
-- 統計エキスパート演習2023
+- 国友直人、湯浅良太、西颯人、趙宇、中西正、SSE-DP-2-24-1「統計エキスパート演習2023」
+  - [DPへのLINK](https://stat-expert.ism.ac.jp/training/discussionpaper/)
+  - [プログラム一覧](./DP/2023/)
 
 ## 西作成のコンテンツ
-- スプラインによる非線形回帰(nonlinear_qr.ipynb)
+
+- スプラインによる非線形回帰 [nonlinear_qr.ipynb](./jupyter/nonlinear_qr.ipynb)
   - 分位点回帰の非線形化を含みます
