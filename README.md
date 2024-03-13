@@ -18,5 +18,5 @@
 
 - スプラインによる非線形回帰 [nonlinear_qr.ipynb](./jupyter/nonlinear_qr.ipynb)
   - 分位点回帰の非線形化を含みます
-- 非線形回帰 [qr.ipynb](./jupyter/qr.ipynb)
+- 非線形回帰 [qr_lp.ipynb](./jupyter/qr_lp.ipynb)
   - cvxpyを用いた線形計画法による分位点回帰の実装です
