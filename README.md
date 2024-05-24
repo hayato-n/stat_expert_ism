@@ -20,3 +20,5 @@
   - 分位点回帰の非線形化を含みます
 - 非線形回帰 [qr_lp.ipynb](./jupyter/qr_lp.ipynb)
   - cvxpyを用いた線形計画法による分位点回帰の実装です
+- 主成分分析の例 [bad_PCA.ipynb](./jupyter/bad_PCA.ipynb)
+  - 主成分分析がうまくいく例とうまくいかない例を作ってみました
